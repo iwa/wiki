@@ -20,6 +20,8 @@ It's pretty dense but totally worth it, in my opinion. Let me guide you on how t
 
 It's totally optional, but in my case, I solely rely on Tailscale when accessing my services. Even when I'm at home, I still use Tailscale. As it automatically routes to a direct connection on the local network if possible, I don't feel the need to switch between them. Moreover, it would be a mess to switch from Tailscale IPs to local IPs every time. Yes, using local IP is more efficient, but the difference in bandwidth is really marginal nowadays.
 
+Note that if you don't use a VPN, you won't be able to access your services when you're away. As stated before, this article treats how to setup and use a private and local reverse proxy, not how to publish your services to the Internet.
+
 ## Step 1. Reverse Proxy
 ### 1.1 Setup your Reverse Proxy
 
