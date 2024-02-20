@@ -30,10 +30,10 @@ My Homelab consists of 2 machines:
   - runs all my self-hosted apps
 - **a Hetzner arm64 VPS**
   - runs Debian 12
-  - runs a [[Reverse Proxy]] and a [[Monitoring system]]
+  - runs a [[reverse-proxy|Reverse Proxy]] and a [[Monitoring system]]
   - this VPS acts like my public gateway
 
 I heavily rely on 2 core technologies:
 
-- **[[Docker]]**, all my apps run into containers
+- **[[docker|Docker]]**, all my apps run into containers
 - **Tailscale**, plug-&-play Wireguard VPN integration
