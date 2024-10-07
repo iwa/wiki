@@ -2,6 +2,9 @@
 title: Welcome to my Homelab
 ---
 
+> [!info] My Docker stacks are publicly available!
+> You can find all the apps I've at least once hosted on my server in the ["Stacks" folder](/stacks).
+
 <img align='right' src="https://avatars2.githubusercontent.com/u/19956672?s=460&u=a139c3a0107aef1cc9cf204eb1d10ad6e1737efc" width="230" style="max-width: 30%">
 
 # Hi 👋 I'm iwa
